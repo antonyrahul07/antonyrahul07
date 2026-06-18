@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Antony Rahul M 👋</h1>
 
 <p align="center">
-  🎓 B.Tech CSE Student &nbsp;|&nbsp; 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 🐍 Python Developer
+  🎓 B.Tech CSE Student &nbsp;|&nbsp;
 </p>
 
 ---
